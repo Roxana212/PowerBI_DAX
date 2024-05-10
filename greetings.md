@@ -1,4 +1,4 @@
-Welcome Txt = 
+Welcome Text = 
 VAR Hour = HOUR(NOW())
 VAR Greetings = 
 SWITCH(
